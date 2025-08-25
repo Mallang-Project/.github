@@ -50,7 +50,7 @@
 ### 1) 감정 분석 설문
 - 여러 테스트 질문을 통해 사용자 감정 분석
 - 답변에 따라 사용자에게 태그 생성
-<p align="left"> <img src="https://github.com/user-attachments/assets/bf71f97f-fcfe-43cb-b5be-396accdf9214" width="230"/> <img src="https://github.com/user-attachments/assets/db290b94-a81a-47dd-9aea-af4f7acf0660" width="230"/> <img src="https://github.com/user-attachments/assets/5a9d61f1-a37a-408a-9b20-e2674be7e9ac" width="230"/> <img src="https://github.com/user-attachments/assets/4762946f-4abe-46be-bd78-72093d3056e9" width="230"/> </p>
+<p align="left"> <img src="https://github.com/user-attachments/assets/bf71f97f-fcfe-43cb-b5be-396accdf9214" width="200"/> <img src="https://github.com/user-attachments/assets/db290b94-a81a-47dd-9aea-af4f7acf0660" width="200"/> <img src="https://github.com/user-attachments/assets/5a9d61f1-a37a-408a-9b20-e2674be7e9ac" width="200"/> <img src="https://github.com/user-attachments/assets/4762946f-4abe-46be-bd78-72093d3056e9" width="200"/> </p>
 
 ### 2) 영화 추천 (TMDB 연동)
 - **TMDB API**로 영화 메타데이터 수집 ->  번역/요약 후 **감정·성향 태깅**  
