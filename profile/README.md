@@ -50,22 +50,22 @@
 ### 1) 감정 분석 설문
 - 여러 테스트 질문을 통해 사용자 감정 분석
 - 답변에 따라 사용자에게 태그 생성
-<p align="left"> <img src="https://github.com/user-attachments/assets/bf71f97f-fcfe-43cb-b5be-396accdf9214" width="200"/> <img src="https://github.com/user-attachments/assets/db290b94-a81a-47dd-9aea-af4f7acf0660" width="200"/> <img src="https://github.com/user-attachments/assets/5a9d61f1-a37a-408a-9b20-e2674be7e9ac" width="200"/> <img src="https://github.com/user-attachments/assets/4762946f-4abe-46be-bd78-72093d3056e9" width="200"/> </p>
+<p align="left"> <img src="https://github.com/user-attachments/assets/bf71f97f-fcfe-43cb-b5be-396accdf9214" width="150"/> <img src="https://github.com/user-attachments/assets/db290b94-a81a-47dd-9aea-af4f7acf0660" width="150"/> <img src="https://github.com/user-attachments/assets/5a9d61f1-a37a-408a-9b20-e2674be7e9ac" width="150"/> <img src="https://github.com/user-attachments/assets/4762946f-4abe-46be-bd78-72093d3056e9" width="150"/> </p>
 
 ### 2) 영화 추천 (TMDB 연동)
 - **TMDB API**로 영화 메타데이터 수집 ->  번역/요약 후 **감정·성향 태깅**  
 - 태그 점수식 가중치 ->  상위 후보 중 **랜덤 3편** 노출
-<p align="left"> <img src="https://github.com/user-attachments/assets/9c1524cb-2531-4fcd-b4ed-5de941b15bde" width="280"/> <img src="https://github.com/user-attachments/assets/0ff55b61-9b8d-497b-9ac4-f5ca951b7272" width="300"/> </p>
+<p align="left"> <img src="https://github.com/user-attachments/assets/9c1524cb-2531-4fcd-b4ed-5de941b15bde" width="200"/> <img src="https://github.com/user-attachments/assets/0ff55b61-9b8d-497b-9ac4-f5ca951b7272" width="200"/> </p>
 
 
 ### 3) AI가 전하는 마음처방전
 - 사용자 감정 태그를 포함한 프롬프트로 **GPT**가 따뜻한 문장을 생성
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5269a664-63a9-4579-b511-e14cd8634cb5" />
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/5269a664-63a9-4579-b511-e14cd8634cb5" />
 
 ### 4) 카카오톡 공유
 - 추천 결과(영화+메시지)를 **정적 HTML**로 저장 → **카카오 링크 카드** 공유  
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/df5ba674-4f5e-42eb-96ef-87b6c45746c5" />
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/df5ba674-4f5e-42eb-96ef-87b6c45746c5" />
 
 ### 5) 리뷰/피드백 작성
 - 이용 직후 **간단 평가/의견** 수집 플로우 제공 -> 관리자 페이지에서 확인
-<p align="left"> <img src="https://github.com/user-attachments/assets/911da6f6-ae0c-493e-8fcd-1a8a246929dc" width="280"/> <img src="https://github.com/user-attachments/assets/3b5ac97d-d04e-46ad-b8c0-ed96e6383209" width="400"/> </p>
+<p align="left"> <img src="https://github.com/user-attachments/assets/911da6f6-ae0c-493e-8fcd-1a8a246929dc" width="200"/> <img src="https://github.com/user-attachments/assets/3b5ac97d-d04e-46ad-b8c0-ed96e6383209" width="300"/> </p>
